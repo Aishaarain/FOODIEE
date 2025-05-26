@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+
+@theme{
+   --font-dm-sans: DM Sans, sans-serif;
+}
+
+*{
+  @apply scroll-smooth
+  
+}
+
+.button{
+    @apply duration-75  text-zinc-700 border-2 border-gray-500 rounded-3xl p-10 pt-2 pb-2 cursor-pointer hover:bg-amber-500 max-md:p-5 max-md:pt-0 max-md:pb-0 max-md:rounded-2xl
+}
+
+.active{
+    @apply pb-0.75 border-b-2 border-solid  border-gray-500
+}
+
+.active2{
+@apply p-0.5 border-2 border-solid border-amber-600
+}
+h1{
+    @apply text-3xl font-bold text-zinc-700
+}
+p{
+  @apply text-zinc-500 
+}
+.logo{
+  @apply w-30 h-20
+}
+li{
+  @apply list-none cursor-pointer
+}
+.h2{
+ @apply text-amber-50 text-2xl font-bold ;
+}
+.img{
+@apply w-[40px] mr-[15px] mt-[10px] cursor-pointer
+}
+  
+input{
+  @apply border-2 rounded-[5px] border-solid border-gray-400 p-1
+
+}
+.hidden{
+  @apply hidden
+}
+
+   @keyframes wiggle {
+    0%,
+    100% {
+     opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+@keyframes onhover{
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

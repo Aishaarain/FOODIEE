@@ -1,0 +1,12 @@
+
+
+.header{
+ background: url(../assets/frontend_assets/header_img.jpg) no-repeat ;
+}
+
+@media (max-width: 1050px){
+    .header{
+        height: 38vw;
+}
+
+}
