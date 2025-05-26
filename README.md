@@ -2,6 +2,8 @@
   <br />
     <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
       <img src="https://foodiee-iota.vercel.app/" alt="Project Banner">
+      ![Screenshot 2025-05-26 173452](https://github.com/user-attachments/assets/af25d672-101f-4c7f-b915-0a6a7ffc1963)
+
     </a>
   <br />
 
