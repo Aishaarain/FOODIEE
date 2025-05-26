@@ -1,10 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-
 ![Screenshot 2025-05-26 173452](https://github.com/user-attachments/assets/072a7501-a10e-4fb8-9ac7-0064f9f160d8)
 
-    </a>
   <br />
 
   <div>
@@ -26,7 +23,10 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+FOOD APP - Modern UI/UX website, developed using React.js and Tailwind CSS. Its sleek design,Browse meals using interactive food cards.
+🔹 Seamless page transitions using React Router
+🔹 Seamless Add to Card feature
+🔹 Simple and secure "Proceed to Checkout" system
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -37,7 +37,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+👉 **Beautiful Sections**: Home section with Explore Menu ,Food Cards.
 
 👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
 
