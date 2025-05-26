@@ -37,15 +37,7 @@ FOOD APP - Modern UI/UX website, developed using React.js and Tailwind CSS. Its 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Sections**: Home section with Explore Menu ,Food Cards.
-
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
-
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
-
-👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
-
-👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+👉 **Beautiful Sections**: Home section with Explore Menu ,Food Cards, Add T0 Card and Proceed To Checkout.
 
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
